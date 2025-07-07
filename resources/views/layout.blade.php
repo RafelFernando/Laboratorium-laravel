@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title> @yield('judul') | Laboratorium </title>
     <link rel="stylesheet" href="/bulma/css/bulma.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+
 </head>
 <body>
     <div class="container">
