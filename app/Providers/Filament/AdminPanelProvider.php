@@ -27,6 +27,9 @@ class AdminPanelProvider extends PanelProvider
             ->id('admin')
             ->path('admin')
             ->login()
+            ->auth(function (\Illuminate\Http\Request $request) {
+                return auth()->check(); // sementara, izinkan semua user yang login
+            })
             ->colors([
                 'primary' => Color::Amber,
             ])
