@@ -12,8 +12,10 @@
 <section class="bg-green-50 py-12">
     <div class="container mx-auto px-4 flex flex-col md:flex-row gap-8 items-start">
         <div class="w-full md:w-1/3">
-            <img class="rounded-lg shadow-md w-full object-cover" src="src="https://drive.google.com/uc?export=view&id=1xl5kFi7UoGzoKNi56FYcxVIIROTAVNEm"
-" alt="Foto Profil Rafel">
+            <img class="rounded-lg shadow-md w-full object-cover" 
+     src="https://drive.google.com/uc?export=view&id=1xl5kFi7UoGzoKNi56FYcxVIIROTAVNEm" 
+     alt="Foto Profil Rafel">
+
         </div>
         <div class="w-full md:w-2/3 bg-white rounded-lg shadow p-6">
             <table class="w-full text-left border-collapse">
